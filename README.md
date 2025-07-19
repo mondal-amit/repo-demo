@@ -1,4 +1,4 @@
 # repo-demo
 This is my first Git Repository.
 <br>
-Author - Amit Mondal.
+Author - (Amit Mondal).
